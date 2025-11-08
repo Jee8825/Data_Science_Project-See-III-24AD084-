@@ -1,0 +1,8 @@
+tf-venv/
+__pycache__/
+*.pkl
+*.csv
+.DS_Store
+.env
+venv/
+
